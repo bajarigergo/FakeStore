@@ -1,5 +1,4 @@
-import { createContext, useEffect, useState } from "react";
-import { myAxios } from "./MyAxios";
+import { createContext, useState } from "react";
 
 export const KosarContext = createContext("");
 
